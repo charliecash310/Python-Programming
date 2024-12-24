@@ -20,4 +20,4 @@ MODULE 3
 MODULE 4
 - Activity: Import and Parse a text file
 - Activity: Create another algorithm
-- Portfolio Activity: Update a file through a Python Algorithm 
+- Activity: Debug Python Code
